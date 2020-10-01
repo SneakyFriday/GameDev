@@ -1,0 +1,21 @@
+Game Dev Ideas
+
+---------------- Ideas ------------------
+
+1. Endless Sidescroller Jump'n'Run & Shoot
+2. Mazerunner with limited sight
+3. Esacape Room Koop Game
+4. Thorgast-like Koop RPG
+5. Samurai Fighting Game
+6. Dog Simulator
+7. Dog-owner Simulator
+
+------------- Dream Projects -------------
+
+1. WoW-like MMORPG
+2. Medieval RPG where Dicisions matter
+
+-------------- In Progress ---------------
+
+1. Samurai Fighting Game (Curse of Kamagura)
+2. Dog-owner Simulator (GoodBoy)
